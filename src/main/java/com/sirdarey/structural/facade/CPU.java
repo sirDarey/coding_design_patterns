@@ -1,0 +1,8 @@
+package com.sirdarey.structural.facade;
+
+class CPU {
+
+    void freeze() {
+        System.out.println("CPU Freeze");
+    }
+}
